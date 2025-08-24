@@ -1,0 +1,1 @@
+{:dependencies @[] :version "0.0.0" :paths @["/home/merkelig/proj/janet/torn-races/torn-races/jpm_tree/lib/pkgs.janet"] :url "https://github.com/janet-lang/pkgs.git" :tag "fbec5c5a98903f0a6ee819f7a15cf1c5d2d9a750" :type :git}
